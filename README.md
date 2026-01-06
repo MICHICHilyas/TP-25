@@ -173,7 +173,18 @@ La console Consul (http://localhost:8500) permet de :
 - Voir les instances actives
 - Gérer la configuration distribuée
 
-## 👨‍💻 Auteur
+## � Captures d'écran
+
+### Consul Dashboard
+![Consul](image.png)
+
+### Services Docker
+![Docker Services](image-1.png)
+
+### Architecture conteneurisée
+![Architecture](image-2.png)
+
+## �👨‍💻 Auteur
 
 **Ilyas MICHICH**
 
